@@ -1,5 +1,4 @@
-Sports Reference - Engineering Internship Question
-Jackson Coleman
+Sports Reference - Engineering Internship Question — Jackson Coleman
 
 I decided to use Python for this task because of its simplicity of syntax and its powerful libraries for formatting tables.
 
